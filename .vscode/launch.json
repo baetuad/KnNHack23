@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "#01_DG_DeclTrainingDataGen",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "cwd": "${workspaceFolder}/#01_DG_DeclTrainingDataGen/#01_DG_DeclTrainingDataGen",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

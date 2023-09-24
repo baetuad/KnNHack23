@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+google-cloud-aiplatform = "*"
 
 [dev-packages]
 

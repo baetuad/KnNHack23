@@ -1,0 +1,13 @@
+{
+    "folders": [
+      {
+        "path": "${workspaceFolder}/#01_DG_Stabilized/#01_DG_DeclTrainingDataGen",
+        "settings": {
+          "python.linting.pylintEnabled": false,
+          "python.linting.pylintArgs": [
+            "--rcfile=${workspaceFolder}/#01_DG_Stabilized/#01_DG_DeclTrainingDataGen/pylintrc"
+          ]
+        }
+      }
+    ]
+  }
