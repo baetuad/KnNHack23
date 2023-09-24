@@ -1,0 +1,31 @@
+TERM|SYNONYMES|UNCODE
+Hydrogen Peroxide|H2O2, Perhydrol|UN2014 or UN2015
+Nitroglycerin|Glyceryl Trinitrate, NG|UN0143
+Sodium Azide|NaN3, Azium|UN1687
+Acetyl Peroxide|Peroxyacetyl|UN3106
+Diazomethane|CH2N2, Diazirine|UN3344
+Ether|Diethyl Ether, Ethoxyethane|UN1155
+Picric Acid|Trinitrophenol, Melinite|UN1344
+Acetone Peroxide|TATP|UN3119
+Ammonium Nitrate|NH4NO3|UN1942
+Ammonium Perchlorate|AP|UN1442
+Calcium Hypochlorite|Bleaching Powder|UN1748
+Sodium Hypochlorite|Bleach|UN1791
+Potassium Permanganate|Condy\'s Crystals|UN1490
+Benzoyl Peroxide|BPO|UN1923
+Chlorine|Cl2|UN1017
+Fluorine|F2|UN1045
+Oxygen Difluoride|OF2|UN2190
+Sulfur Hexafluoride|SF6|UN1080
+Nitric Acid|HNO3|UN2031
+Chloroform|Trichloromethane|UN1888
+Cyanogen|C2N2|UN1026
+Sodium Chlorate|NaClO3|UN1495
+Zinc Powder|Zinc Dust|UN1436
+Sodium Cyanide|NaCN|UN1689
+Dimethyl Sulfoxide|DMSO|UN1993
+Magnesium Powder|Mg Powder|UN1418
+Arsine|AsH3|UN2188
+Hydrazine|N2H4|UN2029
+Phosphine|PH3|UN2199
+Chlorine Trifluoride|ClF3|UN1749

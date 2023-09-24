@@ -1,6 +1,17 @@
 """
-Module to generate DG Declarations for Stabilizer relevant chemicals but in a fuzzy way, 
-so carriers might miss the Stabilizer case and make the shipment cheaper.
+Module to get me up and running with the Vertex AI Text Generation Model API in a local environment.
+
+To be able to run this script, you need to have the following installed:
+- Python 3.7 or higher
+- Google Cloud CLI (https://cloud.google.com/sdk/docs/install)
+- Google Cloud SDK (https://cloud.google.com/sdk/docs/install)
+- Vertex AI SDK for Python (https://cloud.google.com/vertex-ai/docs/start/client-libraries#installing_the_client_library)
+
+The CLI I installed with the windows installer.
+The SDK I installed with pip
+Then I had to create a default authentification with the CLI:
+> gcloud auth application-default login
+Afterwards I could run this script.
 """
 # from google import auth
 
