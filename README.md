@@ -1,5 +1,5 @@
-# Kühne&Nagel Hackathon 2023 - Team xHL_IT_DG_Protectors
-
+# Kühne&Nagel Hackathon 2023 - 
+## Team: xHL_IT_DG_Protectors
 ![Hackathon Logo](./logo.png)  <!-- If you have a logo, place it in your repo and link it here -->
 
 Welcome to our repository for the Google-hosted Hackathon with Kühne&Nagel in Hamburg, 2023! 🚀 This is the collaborative space for our team to version code, run experiments, create prototypes, and share other results and assets.
