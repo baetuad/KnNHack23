@@ -17,8 +17,8 @@ class LLM:
 
 @dataclass
 class App:
-    RESULT_FILE="#01_DG_Stabilized\#01_DG_Decl_TrainingDataGen\all_variants.csv"
-    SYNONYMS_FILE="#01_DG_Stabilized\#01_DG_Decl_TrainingDataGen\synonyms.txt"
-    PROMPT_TEMPLATE="#01_DG_Stabilized\\#01_DG_Decl_TrainingDataGen\\prompt_template.txt"
+    RESULT_FILE="data/all_variants.csv"
+    SYNONYMS_FILE="data/synonyms.txt"
+    PROMPT_TEMPLATE="prompt_for_synonyms_gc_bison.tpl"
     
     

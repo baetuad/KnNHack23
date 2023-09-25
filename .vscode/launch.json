@@ -9,7 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "cwd": "${workspaceFolder}/#01_DG_DeclTrainingDataGen/#01_DG_DeclTrainingDataGen",
+            "cwd": "${workspaceFolder}\\#01_DG_Stabilized\\#01_DG_Decl_TrainingDataGen",
             "console": "integratedTerminal",
             "justMyCode": true
         }

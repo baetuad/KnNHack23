@@ -10,9 +10,7 @@ Output should be a pythonic list of strings, like ["<DG declaraton>", "<DG decla
 No formating of the output allowd.
 
 Example DG Declarations:
-\"Diesel fuel, Class 3, PGIII, Conditioned for safe transport\",
-\"Liquid combustibel, PGII, Stable with proprietary additives\",
-\"Paint, can get hot, Formulated to minimize fire risk\"
+<style_examples>
 
-Target chemical: <Target>
-Synonyms: <Synonyms>
+Target chemical: <term>
+Synonyms: <synonyms>

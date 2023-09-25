@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pandas = "*"
 google-cloud-aiplatform = "*"
+pyyaml = "*"
 
 [dev-packages]
 
