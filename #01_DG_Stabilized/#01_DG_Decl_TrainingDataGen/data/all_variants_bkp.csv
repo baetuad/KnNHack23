@@ -29,18 +29,18 @@ UN1687,"Natriumazid, Class 5.1, PGII, Sensitive to moisture",TO BE STABILIZED
 UN1687,"Sodiumazid, Class 5.1, PGII, Unstable in humid conditions",TO BE STABILIZED
 UN1687,"Sodiumazid, Class 5.1, PGII, Explosive when wet",TO BE STABILIZED
 UN1687,"Sodiumazid, Class 5.1, PGII, Hazardous when exposed to water",TO BE STABILIZED
-UN3106,"Acetyl peroxide, Class 5.2, PGII, Stabilized",TO BE STABILIZED
-UN3106,"Acetyl peroxide, Class 5.2, PGIII, Conditioned for safe transport",TO BE STABILIZED
-UN3106,"Acetyl peroxide, Class 5.2, PGIV, Stable with proprietary additives",TO BE STABILIZED
-UN3106,"Peroxyacetyl, Class 5.2, PGII, Stabilized",TO BE STABILIZED
-UN3106,"Peroxyacetyl, Class 5.2, PGIII, Conditioned for safe transport",TO BE STABILIZED
-UN3106,"Peroxyacetyl, Class 5.2, PGIV, Stable with proprietary additives",TO BE STABILIZED
-UN3106,"Acetyl peroxide, can get hot, Formulated to minimize fire risk",TO BE STABILIZED
-UN3106,"Acetyl peroxide, can spontaneously combust, Formulated to minimize fire risk",TO BE STABILIZED
-UN3106,"Acetyl peroxide, can decompose violently, Formulated to minimize fire risk",TO BE STABILIZED
-UN3106,"Peroxyacetyl, can get hot, Formulated to minimize fire risk",TO BE STABILIZED
-UN3106,"Peroxyacetyl, can spontaneously combust, Formulated to minimize fire risk",TO BE STABILIZED
-UN3106,"Peroxyacetyl, can decompose violently, Formulated to minimize fire risk",TO BE STABILIZED
+UN3106,"Acetyl peroxide, Class 5.2, PGII, Stabilized",NOT STBILIZE RELEVANT
+UN3106,"Acetyl peroxide, Class 5.2, PGIII, Conditioned for safe transport",NOT STBILIZE RELEVANT
+UN3106,"Acetyl peroxide, Class 5.2, PGIV, Stable with proprietary additives",NOT STBILIZE RELEVANT
+UN3106,"Peroxyacetyl, Class 5.2, PGII, Stabilized",NOT STBILIZE RELEVANT
+UN3106,"Peroxyacetyl, Class 5.2, PGIII, Conditioned for safe transport",NOT STBILIZE RELEVANT
+UN3106,"Peroxyacetyl, Class 5.2, PGIV, Stable with proprietary additives",NOT STBILIZE RELEVANT
+UN3106,"Acetyl peroxide, can get hot, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN3106,"Acetyl peroxide, can spontaneously combust, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN3106,"Acetyl peroxide, can decompose violently, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN3106,"Peroxyacetyl, can get hot, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN3106,"Peroxyacetyl, can spontaneously combust, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN3106,"Peroxyacetyl, can decompose violently, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
 UN3344,"Diazomethane, Class 4.3, PGII, Packing group III",TO BE STABILIZED
 UN3344,"Diazine, Class 4.3, PGII, Packing group III",TO BE STABILIZED
 UN3344,"Diazomethane, Class 4.3, PGII, Packing group III, Conditioned for safe transport",TO BE STABILIZED
@@ -105,16 +105,16 @@ UN1442,"Ammonium perchlorate, Class 5.1, PGIII, Unstable solid, Conditioned for 
 UN1442,"Ammonium perchlorate, Class 5.1, PGII, Flammable solid, Stable with proprietary additives",TO BE STABILIZED
 UN1442,"Ammonium perchlorate, Class 5.1, PGIII, Oxidizing solid, Stable with proprietary additives",TO BE STABILIZED
 UN1442,"Ammonium perchlorate, Class 5.1, PGII, Unstable solid, Stable with proprietary additives",TO BE STABILIZED
-UN1791,"Sodium Hypochlorite, Class 8, PGI, Non-flammable",TO BE STABILIZED
-UN1791,"Sodium Hypochlorite, Class 9, PGII, Stable",TO BE STABILIZED
-UN1791,"Bleach, Class 8, PGI, Non-flammable",TO BE STABILIZED
-UN1791,"Bleach, Class 9, PGII, Stable",TO BE STABILIZED
-UN1791,"Hypochlorite, Class 8, PGI, Non-flammable",TO BE STABILIZED
-UN1791,"Hypochlorite, Class 9, PGII, Stable",TO BE STABILIZED
-UN1791,"Bleach, can get hot, Formulated to minimize fire risk",TO BE STABILIZED
-UN1791,"Bleach, can be corrosive, Formulated to minimize corrosivity risk",TO BE STABILIZED
-UN1791,"Bleach, can cause skin irritation, Formulated to minimize skin irritation risk",TO BE STABILIZED
-UN1791,"Bleach, can cause eye irritation, Formulated to minimize eye irritation risk",TO BE STABILIZED
+UN1791,"Sodium Hypochlorite, Class 8, PGI, Non-flammable",NOT STBILIZE RELEVANT
+UN1791,"Sodium Hypochlorite, Class 9, PGII, Stable",NOT STBILIZE RELEVANT
+UN1791,"Bleach, Class 8, PGI, Non-flammable",NOT STBILIZE RELEVANT
+UN1791,"Bleach, Class 9, PGII, Stable",NOT STBILIZE RELEVANT
+UN1791,"Hypochlorite, Class 8, PGI, Non-flammable",NOT STBILIZE RELEVANT
+UN1791,"Hypochlorite, Class 9, PGII, Stable",NOT STBILIZE RELEVANT
+UN1791,"Bleach, can get hot, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN1791,"Bleach, can be corrosive, Formulated to minimize corrosivity risk",NOT STBILIZE RELEVANT
+UN1791,"Bleach, can cause skin irritation, Formulated to minimize skin irritation risk",NOT STBILIZE RELEVANT
+UN1791,"Bleach, can cause eye irritation, Formulated to minimize eye irritation risk",NOT STBILIZE RELEVANT
 UN1490,"Potassium permanganate, Class 5.1, PGII, Stable with proprietary additives",TO BE STABILIZED
 UN1490,"Condy's Crystals, Class 5.1, PGII, Stable with proprietary additives",TO BE STABILIZED
 UN1490,"Oxidizing agent, Class 5.1, PGII, Stable with proprietary additives",TO BE STABILIZED
@@ -149,18 +149,18 @@ UN1017,"Chlorine, Class 2.3, PGII, Volatile",TO BE STABILIZED
 UN1017,"Cl2, Class 2.3, PGII, Volatile",TO BE STABILIZED
 UN1017,"Chlorine, Class 2.3, PGII, Oxidizing",TO BE STABILIZED
 UN1017,"Cl2, Class 2.3, PGII, Oxidizing",TO BE STABILIZED
-UN1045,"Gaseous fluorine, Class 2.2, PGII, Conditioned for safe transport",TO BE STABILIZED
-UN1045,"Gaseous F2, Class 2.2, PGII, Stable with proprietary additives",TO BE STABILIZED
-UN1045,"Gaseous fluorine, can get hot, Formulated to minimize fire risk",TO BE STABILIZED
-UN1045,"Gaseous F2, Class 2.2, PGII, Flammable gas",TO BE STABILIZED
-UN1045,"Gaseous fluorine, Class 2.2, PGII, Highly reactive gas",TO BE STABILIZED
-UN1045,"Gaseous F2, Class 2.2, PGII, Toxic gas",TO BE STABILIZED
-UN1045,"Gaseous fluorine, Class 2.2, PGII, Corrosive gas",TO BE STABILIZED
-UN1045,"Gaseous F2, Class 2.2, PGII, Irritant gas",TO BE STABILIZED
-UN1045,"Gaseous fluorine, Class 2.2, PGII, Dangerous for the environment",TO BE STABILIZED
-UN1045,"Gaseous F2, Class 2.2, PGII, Harmful for the environment",TO BE STABILIZED
-UN1045,"Gaseous fluorine, Class 2.2, PGII, Hazardous for the environment",TO BE STABILIZED
-UN1045,"Gaseous F2, Class 2.2, PGII, Toxic to the environment",TO BE STABILIZED
+UN1045,"Gaseous fluorine, Class 2.2, PGII, Conditioned for safe transport",NOT STBILIZE RELEVANT
+UN1045,"Gaseous F2, Class 2.2, PGII, Stable with proprietary additives",NOT STBILIZE RELEVANT
+UN1045,"Gaseous fluorine, can get hot, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN1045,"Gaseous F2, Class 2.2, PGII, Flammable gas",NOT STBILIZE RELEVANT
+UN1045,"Gaseous fluorine, Class 2.2, PGII, Highly reactive gas",NOT STBILIZE RELEVANT
+UN1045,"Gaseous F2, Class 2.2, PGII, Toxic gas",NOT STBILIZE RELEVANT
+UN1045,"Gaseous fluorine, Class 2.2, PGII, Corrosive gas",NOT STBILIZE RELEVANT
+UN1045,"Gaseous F2, Class 2.2, PGII, Irritant gas",NOT STBILIZE RELEVANT
+UN1045,"Gaseous fluorine, Class 2.2, PGII, Dangerous for the environment",NOT STBILIZE RELEVANT
+UN1045,"Gaseous F2, Class 2.2, PGII, Harmful for the environment",NOT STBILIZE RELEVANT
+UN1045,"Gaseous fluorine, Class 2.2, PGII, Hazardous for the environment",NOT STBILIZE RELEVANT
+UN1045,"Gaseous F2, Class 2.2, PGII, Toxic to the environment",NOT STBILIZE RELEVANT
 UN2190,"Oxygen difluoride, Class 4.2, PGIII, Conditioned for safe transport",TO BE STABILIZED
 UN2190,"Fluorine oxide, Class 4.2, PGIII, Conditioned for safe transport",TO BE STABILIZED
 UN2190,"Fluorine oxide, PGIII, Conditioned for safe transport",TO BE STABILIZED
@@ -194,17 +194,17 @@ UN2031,"Nitric acid, PGII, Toxic",TO BE STABILIZED
 UN2031,"Nitric acid, PGII, Hazardous chemical",TO BE STABILIZED
 UN2031,"Nitric acid, PGII, Hazardous material",TO BE STABILIZED
 UN2031,"Nitric acid, PGII, Hazardous substance",TO BE STABILIZED
-UN1888,"Chloroform, Class 6.1, PGII, Conditioned for safe transport",TO BE STABILIZED
-UN1888,"Trichloromethane, Class 6.1, PGIII, Stable with proprietary additives",TO BE STABILIZED
-UN1888,"Chloroform, can get hot, Formulated to minimize fire risk",TO BE STABILIZED
-UN1888,"Chloroform, Class 6.1, PGII, Contains 3 chlorine atoms",TO BE STABILIZED
-UN1888,"Chloroform, Class 6.1, PGII, Toxic to humans",TO BE STABILIZED
-UN1888,"Chloroform, Class 6.1, PGII, Inflammable liquid",TO BE STABILIZED
-UN1888,"Trichloromethane, Class 6.1, PGIII, Toxic to humans",TO BE STABILIZED
-UN1888,"Trichloromethane, Class 6.1, PGIII, Inflammable liquid",TO BE STABILIZED
-UN1888,"Trichloromethane, Class 6.1, PGIII, Contains 3 chlorine atoms",TO BE STABILIZED
-UN1888,"Chloroform, Class 6.1, PGII, Toxic to humans and the environment",TO BE STABILIZED
-UN1888,"Chloroform, Class 6.1, PGII, Inflammable liquid and toxic to humans and the environment",TO BE STABILIZED
+UN1888,"Chloroform, Class 6.1, PGII, Conditioned for safe transport",NOT STBILIZE RELEVANT
+UN1888,"Trichloromethane, Class 6.1, PGIII, Stable with proprietary additives",NOT STBILIZE RELEVANT
+UN1888,"Chloroform, can get hot, Formulated to minimize fire risk",NOT STBILIZE RELEVANT
+UN1888,"Chloroform, Class 6.1, PGII, Contains 3 chlorine atoms",NOT STBILIZE RELEVANT
+UN1888,"Chloroform, Class 6.1, PGII, Toxic to humans",NOT STBILIZE RELEVANT
+UN1888,"Chloroform, Class 6.1, PGII, Inflammable liquid",NOT STBILIZE RELEVANT
+UN1888,"Trichloromethane, Class 6.1, PGIII, Toxic to humans",NOT STBILIZE RELEVANT
+UN1888,"Trichloromethane, Class 6.1, PGIII, Inflammable liquid",NOT STBILIZE RELEVANT
+UN1888,"Trichloromethane, Class 6.1, PGIII, Contains 3 chlorine atoms",NOT STBILIZE RELEVANT
+UN1888,"Chloroform, Class 6.1, PGII, Toxic to humans and the environment",NOT STBILIZE RELEVANT
+UN1888,"Chloroform, Class 6.1, PGII, Inflammable liquid and toxic to humans and the environment",NOT STBILIZE RELEVANT
 UN1026,"Cyanogen, Class 6.1, PGII, Stable with proprietary additives",TO BE STABILIZED
 UN1026,"Cyanogen, Class 6.1, PGIII, Conditioned for safe transport",TO BE STABILIZED
 UN1026,"Cyanogen, Class 6.1, PGII, Formulated to minimize fire risk",TO BE STABILIZED
